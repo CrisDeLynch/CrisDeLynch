@@ -10,7 +10,6 @@
 ### Sobre mí
 - Estudiante de Desarrollo de Aplicaciones Web
 - Apasionada por el desarrollo web y la experiencia de usuario
-- Actualmente trabajando en [LibriX](https://librix-online.vercel.app)
 
 ---
 
