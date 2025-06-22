@@ -21,18 +21,6 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </div>
 
----
-
-### Proyecto destacado
-
-<div align="center">
-  <a href="https://librix-online.vercel.app" target="_blank">
-    <img src="https://librix-online.vercel.app/Logo1.png" alt="Logo LibriX" height="80" />
-    <br/>
-  </a>
-  <strong>LibriX – Tu biblioteca digital con lector EPUB integrado</strong>
-</div>
-
 
 ---
 
